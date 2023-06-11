@@ -19,7 +19,6 @@ A backbone for your coding challenge.
 #### Additional libs
 
 - sqlite3 (SQLite connection)
-- rack-cors (CORS support)
   
 ### Frontend
 
