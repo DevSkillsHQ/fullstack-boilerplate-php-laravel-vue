@@ -13,8 +13,8 @@ A backbone for your coding challenge.
 
 ### Backend
 
-- Ruby 3.1.2 
-- Rails 7.0.3.1 
+- PHP 8.0.28,
+- Laravel Framework 9.52.9
 
 #### Additional libs
 
@@ -33,12 +33,7 @@ A backbone for your coding challenge.
 
 ## Getting started
 
-1. Make sure the required version of Ruby (2.7.0) is configured on your local env.
-
-```bash
-curl -sSL https://get.rvm.io | bash
-rvm install 2.7.0
-```
+1. Make sure the required version of PHP (8.0) and Laravel Framework (9.52) is configured on your local env.
 
 2. Make sure npm & node are configured on your local env. You can download those distributions for your platform [here](https://nodejs.org/en/download/)
 
@@ -46,8 +41,8 @@ rvm install 2.7.0
 
 ```bash
 npm install
-npm run build # both Rails backend and Vue frontend
-npm run build:backend # only Rails backend
+npm run build # both Laravel backend and Vue frontend
+npm run build:backend # only Laravel backend
 npm run build:frontend # only Vue frontend
 ```
 
@@ -55,8 +50,8 @@ npm run build:frontend # only Vue frontend
 
 ```bash
 npm install
-npm run start # both Rails backend and Vue frontend
-npm run start:backend # only Rails backend
+npm run start # both Laravel backend and Vue frontend
+npm run start:backend # only Laravel backend
 npm run start:frontend # only Vue frontend
 ```
 
