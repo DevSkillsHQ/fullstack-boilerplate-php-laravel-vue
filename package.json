@@ -5,7 +5,7 @@
     "build:backend": "cd app-backend && composer update && composer install",
     "build:frontend": "cd app-frontend && npm install && npm run build",
     "build": "npm run build:backend && npm run build:frontend",
-    "start:backend": "cd app-backend && php artisan serve --host=127.0.0.1 --port=8000",
+    "start:backend": "cd app-backend && php artisan serve --host=localhost --port=8000",
     "start:frontend": "cd app-frontend &&  npm run start",
     "start": "npm run start:backend & npm run start:frontend",
     "test": "cypress run"
