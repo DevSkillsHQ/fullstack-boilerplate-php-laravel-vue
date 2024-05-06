@@ -3216,16 +3216,16 @@
         },
         {
             "name": "symfony/css-selector",
-            "version": "v7.0.3",
+            "version": "v7.0.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/css-selector.git",
-                "reference": "ec60a4edf94e63b0556b6a0888548bb400a3a3be"
+                "reference": "b08a4ad89e84b29cec285b7b1f781a7ae51cf4bc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/css-selector/zipball/ec60a4edf94e63b0556b6a0888548bb400a3a3be",
-                "reference": "ec60a4edf94e63b0556b6a0888548bb400a3a3be",
+                "url": "https://api.github.com/repos/symfony/css-selector/zipball/b08a4ad89e84b29cec285b7b1f781a7ae51cf4bc",
+                "reference": "b08a4ad89e84b29cec285b7b1f781a7ae51cf4bc",
                 "shasum": ""
             },
             "require": {
@@ -3261,7 +3261,7 @@
             "description": "Converts CSS selectors to XPath expressions",
             "homepage": "https://symfony.com",
             "support": {
-                "source": "https://github.com/symfony/css-selector/tree/v7.0.3"
+                "source": "https://github.com/symfony/css-selector/tree/v7.0.7"
             },
             "funding": [
                 {
@@ -3277,7 +3277,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-01-23T15:02:46+00:00"
+            "time": "2024-04-18T09:29:19+00:00"
         },
         {
             "name": "symfony/deprecation-contracts",
@@ -3423,16 +3423,16 @@
         },
         {
             "name": "symfony/event-dispatcher",
-            "version": "v7.0.3",
+            "version": "v7.0.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/event-dispatcher.git",
-                "reference": "834c28d533dd0636f910909d01b9ff45cc094b5e"
+                "reference": "db2a7fab994d67d92356bb39c367db115d9d30f9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/event-dispatcher/zipball/834c28d533dd0636f910909d01b9ff45cc094b5e",
-                "reference": "834c28d533dd0636f910909d01b9ff45cc094b5e",
+                "url": "https://api.github.com/repos/symfony/event-dispatcher/zipball/db2a7fab994d67d92356bb39c367db115d9d30f9",
+                "reference": "db2a7fab994d67d92356bb39c367db115d9d30f9",
                 "shasum": ""
             },
             "require": {
@@ -3483,7 +3483,7 @@
             "description": "Provides tools that allow your application components to communicate with each other by dispatching events and listening to them",
             "homepage": "https://symfony.com",
             "support": {
-                "source": "https://github.com/symfony/event-dispatcher/tree/v7.0.3"
+                "source": "https://github.com/symfony/event-dispatcher/tree/v7.0.7"
             },
             "funding": [
                 {
@@ -3499,20 +3499,20 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-01-23T15:02:46+00:00"
+            "time": "2024-04-18T09:29:19+00:00"
         },
         {
             "name": "symfony/event-dispatcher-contracts",
-            "version": "v3.4.2",
+            "version": "v3.5.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/event-dispatcher-contracts.git",
-                "reference": "4e64b49bf370ade88e567de29465762e316e4224"
+                "reference": "8f93aec25d41b72493c6ddff14e916177c9efc50"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/event-dispatcher-contracts/zipball/4e64b49bf370ade88e567de29465762e316e4224",
-                "reference": "4e64b49bf370ade88e567de29465762e316e4224",
+                "url": "https://api.github.com/repos/symfony/event-dispatcher-contracts/zipball/8f93aec25d41b72493c6ddff14e916177c9efc50",
+                "reference": "8f93aec25d41b72493c6ddff14e916177c9efc50",
                 "shasum": ""
             },
             "require": {
@@ -3522,7 +3522,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-main": "3.4-dev"
+                    "dev-main": "3.5-dev"
                 },
                 "thanks": {
                     "name": "symfony/contracts",
@@ -3559,7 +3559,7 @@
                 "standards"
             ],
             "support": {
-                "source": "https://github.com/symfony/event-dispatcher-contracts/tree/v3.4.2"
+                "source": "https://github.com/symfony/event-dispatcher-contracts/tree/v3.5.0"
             },
             "funding": [
                 {
@@ -3575,7 +3575,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-01-23T14:51:35+00:00"
+            "time": "2024-04-18T09:32:20+00:00"
         },
         {
             "name": "symfony/finder",
@@ -4854,21 +4854,22 @@
         },
         {
             "name": "symfony/service-contracts",
-            "version": "v3.4.2",
+            "version": "v3.5.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/service-contracts.git",
-                "reference": "11bbf19a0fb7b36345861e85c5768844c552906e"
+                "reference": "bd1d9e59a81d8fa4acdcea3f617c581f7475a80f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/service-contracts/zipball/11bbf19a0fb7b36345861e85c5768844c552906e",
-                "reference": "11bbf19a0fb7b36345861e85c5768844c552906e",
+                "url": "https://api.github.com/repos/symfony/service-contracts/zipball/bd1d9e59a81d8fa4acdcea3f617c581f7475a80f",
+                "reference": "bd1d9e59a81d8fa4acdcea3f617c581f7475a80f",
                 "shasum": ""
             },
             "require": {
                 "php": ">=8.1",
-                "psr/container": "^1.1|^2.0"
+                "psr/container": "^1.1|^2.0",
+                "symfony/deprecation-contracts": "^2.5|^3"
             },
             "conflict": {
                 "ext-psr": "<1.1|>=2"
@@ -4876,7 +4877,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-main": "3.4-dev"
+                    "dev-main": "3.5-dev"
                 },
                 "thanks": {
                     "name": "symfony/contracts",
@@ -4916,7 +4917,7 @@
                 "standards"
             ],
             "support": {
-                "source": "https://github.com/symfony/service-contracts/tree/v3.4.2"
+                "source": "https://github.com/symfony/service-contracts/tree/v3.5.0"
             },
             "funding": [
                 {
@@ -4932,7 +4933,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2023-12-19T21:51:00+00:00"
+            "time": "2024-04-18T09:32:20+00:00"
         },
         {
             "name": "symfony/string",
@@ -7638,16 +7639,16 @@
         },
         {
             "name": "spatie/flare-client-php",
-            "version": "1.4.4",
+            "version": "1.5.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/spatie/flare-client-php.git",
-                "reference": "17082e780752d346c2db12ef5d6bee8e835e399c"
+                "reference": "e27977d534eefe04c154c6fd8460217024054c05"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/spatie/flare-client-php/zipball/17082e780752d346c2db12ef5d6bee8e835e399c",
-                "reference": "17082e780752d346c2db12ef5d6bee8e835e399c",
+                "url": "https://api.github.com/repos/spatie/flare-client-php/zipball/e27977d534eefe04c154c6fd8460217024054c05",
+                "reference": "e27977d534eefe04c154c6fd8460217024054c05",
                 "shasum": ""
             },
             "require": {
@@ -7695,7 +7696,7 @@
             ],
             "support": {
                 "issues": "https://github.com/spatie/flare-client-php/issues",
-                "source": "https://github.com/spatie/flare-client-php/tree/1.4.4"
+                "source": "https://github.com/spatie/flare-client-php/tree/1.5.1"
             },
             "funding": [
                 {
@@ -7703,7 +7704,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2024-01-31T14:18:45+00:00"
+            "time": "2024-05-03T15:43:14+00:00"
         },
         {
             "name": "spatie/ignition",
